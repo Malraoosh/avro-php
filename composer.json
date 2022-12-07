@@ -1,5 +1,5 @@
 {
-    "name": "mawdoo3com/avro",
+    "name": "mawdoo3mediawiki/avro",
     "autoload": {
         "psr-4": {
             "Mawdoo3com\\Avro\\": "lib/"
