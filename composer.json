@@ -1,0 +1,15 @@
+{
+    "name": "mawdoo3com/avro",
+    "autoload": {
+        "psr-4": {
+            "Mawdoo3com\\Avro\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mawdoo3",
+            "email": "mohammad.alraosh@alweb.com"
+        }
+    ],
+    "require": {}
+}
