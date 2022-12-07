@@ -1,15 +1,25 @@
 {
     "name": "mawdoo3mediawiki/avro",
+    "description": "A library for using [Avro](http://avro.apache.org/) with PHP",
+    "type": "package",
+    "require": {
+        "php": ">=7.0"
+    },
     "autoload": {
         "psr-4": {
             "Mawdoo3com\\Avro\\": "lib/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "mawdoo3",
             "email": "mohammad.alraosh@alweb.com"
         }
     ],
-    "require": {}
+    "config": {
+        "preferred-install": "dist",
+        "platform-check": false
+    },
+    "minimum-stability": "dev"
 }
